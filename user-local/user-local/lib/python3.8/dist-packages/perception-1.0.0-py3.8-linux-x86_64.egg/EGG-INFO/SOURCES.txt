@@ -1,0 +1,8 @@
+README.md
+setup.py
+perception.egg-info/PKG-INFO
+perception.egg-info/SOURCES.txt
+perception.egg-info/dependency_links.txt
+perception.egg-info/not-zip-safe
+perception.egg-info/top_level.txt
+sensor_driver/inference/libspconv/lib/x86_64/libspconv.so

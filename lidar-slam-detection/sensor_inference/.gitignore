@@ -1,0 +1,4 @@
+*.pyc
+*.trt
+*.onnx
+*.rknn
